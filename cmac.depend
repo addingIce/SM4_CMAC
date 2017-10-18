@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508327720 source:/home/baobao/Documents/project/cmac/main.c
+	<stdio.h>
+	<stdlib.h>
+	<openssl/sms4.h>
+	<openssl/modes.h>
+
